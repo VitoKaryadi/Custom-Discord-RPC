@@ -1,4 +1,4 @@
-# [**Vito Karyadi**](https://vitokaryadi.glitch.me)
+# [**Custom Discord RPC**](https://github.com/VitoKaryadi/Custom-Discord-RPC/)
 
 
 ## License
